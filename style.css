@@ -1,0 +1,51 @@
+:root{
+    --primary-color : blue;
+}
+body{
+    margin:2rem;
+
+}
+/* #output{
+    border: 1px solid black;
+    height: 400px;
+    width: 200px;
+} */
+/* div{
+    display: inline;
+    
+}
+button{
+    display: inline-block;
+   
+} */
+.highlight {
+    color: yellow;
+  }
+
+button {
+    background-color: rgb(119, 64, 30);
+    padding: 0.4rem 0.6rem;
+    border-radius: 0.5rem;
+    margin: 0.2rem;
+    box-shadow: 8px 3px 8px rgba(83, 82, 82, 0.616);
+    color: white;
+}
+
+#cancelAlarm{
+    background-color: rgb(82, 79, 76);
+}
+#cancelAlarm:hover{
+    background-color: rgb(49, 48, 46);
+}
+
+button:hover {
+    background-color: rgb(77, 36, 10);
+}
+h3{
+    font-weight: bolder;
+    font-style: italic;
+}
+img{
+    height: 8rem;
+    margin-left: 9rem;
+}
